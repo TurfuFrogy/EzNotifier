@@ -23,3 +23,7 @@
 
 ## Previews
 - [Images](https://i.imgur.com/5mXwPC7.png)
+
+## FAQ
+- **Q: How to use EzNotifier?**
+- A: You must first download the requirements with the command `pip install -r requirements.txt` and then follow the instructions after starting EzNotifier with the command `python main.py`. You can also run the downloadable executable directly from the [Releases](https://github.com/TurfuFrogy/EzNotifier/releases). If you can't host it on your machine, you can still see all the new rains on the [Discord Server](https://discord.gg/4h37Je7Qus)!
