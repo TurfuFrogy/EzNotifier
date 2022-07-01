@@ -27,3 +27,6 @@
 ## FAQ
 - **Q: How to use EzNotifier?**
 - A: You must first download the requirements with the command `pip install -r requirements.txt` (you have to download the pytransform folder too) and then follow the instructions after starting EzNotifier with the command `python main.py`. You can also run the downloadable executable directly from the [Releases](https://github.com/TurfuFrogy/EzNotifier/releases). If you can't host it on your machine, you can still see all the new rains on the [Discord Server](https://discord.gg/4h37Je7Qus)!
+
+- **Q: Why is EzNotifier obfuscated and protected?**
+- A: Because I just don't like to find my code on other repositories with changed credits or to see it sold by other people and the BloxFlip tools bring me some $ right now.
